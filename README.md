@@ -9,6 +9,7 @@ A visually appealing and responsive tribute page dedicated to the anime and mang
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Screenshot](#screenshot)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -41,9 +42,16 @@ This tribute page highlights the story and characters of **Dr. Stone**, focusing
 
 ---
 
+
 ## Screenshot
 
 ![Dr. Stone Tribute Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzmGZfUCVAOxJv0sa-pBm-d8A624ojIeZyU7QjL6q_rAIdrFfKPxoKVqK6D7nM4jduO_Q0Mfh4IyEFtYiQT0tcgpZZo2Ht9AOn2EYog)
+
+---
+
+## Demo
+
+[Live Demo](https://issamsensi.github.io/dr-stone/)
 
 ---
 
